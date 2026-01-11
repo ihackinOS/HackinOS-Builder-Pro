@@ -1,4 +1,5 @@
-![HACKINOS BUILDER PRO - ONE CLICK EFI](https://github.com/user-attachments/assets/e22e46ca-1635-4df0-9d50-03e9d612627c)
+
+<img width="1536" height="1024" alt="HACKINOS BUILDER PRO ONE CLICK" src="https://github.com/user-attachments/assets/4315e099-65dc-4de2-b063-a32e71bfc71f" />
 
 # 🍎 HackinOS Builder Pro  
 
