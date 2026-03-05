@@ -103,6 +103,8 @@ Just copy the EFI — **no additional steps required**.
 
 You can download and use HackinOS Builder Pro **for free**.
 
+- Download: https://hackinos.com/files/file/11196-%F0%9F%8D%8E-hackinos-builder-pro/
+
 👉 **Register & Download:**  **https://www.hackinOS.com**
 
 ## 📣 Support & Contact Policy (Important)
