@@ -12,10 +12,14 @@ A powerful automation tool to simplify building a fully functional <b>Hackintosh
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/ihackinOS/HackinOS-Builder-Pro/total?style=for-the-badge)
+
 ![GitHub issues](https://img.shields.io/github/issues/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-HackinOS-red?style=for-the-badge)](https://www.paypal.me/TranNgocAnhVu)
 
 </div>
 
