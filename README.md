@@ -98,7 +98,7 @@ HackinOS Builder Pro helps by automating critical tasks.
 <p align="center">
 
 <a href="https://star-history.com/#ihackinOS/HackinOS-Builder-Pro&Date">
-<img src="https://api.star-history.com/svg?repos=ihackinOS/HackinOS-Builder-Pro&type=Date" width="600"/>
+<img src="https://api.star-history.com/svg?repos=ihackinOS/HackinOS-Builder-Pro&type=Date" width="1200"/>
 </a>
 
 </p>
@@ -115,7 +115,7 @@ Your support helps grow the **HackinOS community**.
 
 ### 📺 HackinOS YouTube Channel
 
-<p align="center">
+<p>
 
 <a href="https://www.youtube.com/@hackinOS">
 <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
@@ -127,3 +127,15 @@ Your support helps grow the **HackinOS community**.
 
 - Building tools to simplify the **Hackintosh ecosystem**.
 - Made with ❤️ by the HackinOS community.
+
+### 📞 Contact & Support
+
+We’re always ready to help!
+Reach out to us through any of the following platforms:
+
+- [x] 🌐 Website: [hackinOS](https://www.hackinos.com)
+- [x] 🗣️ Discord: [hackinOS Community](https://discord.gg/CX4H3tk4FM)
+- [x] 📘 Facebook: [hackinOS](https://facebook.com/hackinos)
+- [x] 📘 Facebook Group: [hackinOS](https://facebook.com/groups/hackinosautotool)
+- [x] 💬 Telegram: [hackinOS](https://t.me/hackinos)
+- [x] 📱 WhatsApp / Signal / Phone: +84 931 79 89 00
