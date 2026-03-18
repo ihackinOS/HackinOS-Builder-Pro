@@ -1,5 +1,3 @@
 github: ihackinos
-ko_fi: hackinOS
-buy_me_a_coffee: hackinOS
-patreon: hackinOS
-custom: ["https://www.paypal.me/TranNgocAnhVu"]
+custom:
+  - "https://www.paypal.me/TranNgocAnhVu"
