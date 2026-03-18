@@ -10,14 +10,14 @@
 A powerful automation tool to simplify building a fully functional <b>Hackintosh EFI</b>.
 </p>
 
-<p align="center" style="text-align: center">
+<div align="center">
 
 ![GitHub stars](https://img.shields.io/github/stars/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
 
-</p>
+</div>
 
 ### 📖 Overview
 
