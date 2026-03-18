@@ -139,3 +139,15 @@ Reach out to us through any of the following platforms:
 - [x] 📘 Facebook Group: [hackinOS](https://facebook.com/groups/hackinosautotool)
 - [x] 💬 Telegram: [hackinOS](https://t.me/hackinos)
 - [x] 📱 WhatsApp / Signal / Phone: +84 931 79 89 00
+
+### ❤️ Support the Project
+
+If you find this project useful, consider supporting its development:
+- ☕ Buy Me a Coffee  
+  - [x] https://www.buymeacoffee.com/hackinOS.com
+- 💖 Ko-fi  
+  - [x] https://ko-fi.com/hackinOS
+- 🎁 Patreon  
+  - [x] https://patreon.com/hackinOS
+- 💰 PayPal  
+  - [x] https://www.paypal.me/TranNgocAnhVu
