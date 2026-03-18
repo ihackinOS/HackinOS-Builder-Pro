@@ -1,152 +1,129 @@
+<p align="center">
 
-<img width="1536" height="1024" alt="HACKINOS BUILDER PRO ONE CLICK" src="https://github.com/user-attachments/assets/4315e099-65dc-4de2-b063-a32e71bfc71f" />
+<img width="1536" height="1024" alt="HackinOS Builder Pro" src="https://github.com/user-attachments/assets/e423ef99-06e4-4a34-b3c5-6c107211784a" />
 
-# 🍎 HackinOS Builder Pro  
+</p>
 
-https://www.youtube.com/watch?v=hwq1fRxAHBU
+<h1 align="center">🚀 HackinOS Builder Pro</h1>
 
-### One-Click. Fully Automated. Professional Hackintosh Solution.
+<p align="center">
+A powerful automation tool to simplify building a fully functional <b>Hackintosh EFI</b>.
+</p>
 
-**HackinOS Builder Pro** is a comprehensive, end-to-end Hackintosh automation tool that transforms a traditionally complex and time-consuming process into a **simple one-click experience**.
+<p align="center" style="text-align: center">
 
-From hardware analysis to EFI generation, every technical step is handled automatically — just like a professional Hackintosh setup, but without manual work.
+![GitHub stars](https://img.shields.io/github/stars/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/ihackinOS/HackinOS-Builder-Pro?style=for-the-badge)
 
-## 🔥 What Does HackinOS Builder Pro Actually Do?
+</p>
 
-HackinOS Builder Pro replicates the **entire Hackintosh building workflow**, exactly as an expert would do it — but fully automated.
+### 📖 Overview
 
-Below is a detailed breakdown of what the application performs behind the scenes:
+**HackinOS Builder Pro** is an advanced automation tool designed to simplify the process of creating a complete **Hackintosh EFI environment**.
 
-## 🧠 1. Full Hardware Detection & Analysis
+Building a Hackintosh normally requires deep knowledge of:
 
-The application automatically scans and identifies:
+* OpenCore configuration
+* ACPI patching
+* Kernel Extensions (Kexts)
+* Hardware compatibility
 
-- CPU brand, generation, cores, and features (Intel / AMD)
-- Motherboard chipset and firmware
-- Integrated & discrete GPU (Intel / AMD)
-- Audio codec
-- Ethernet & Wi-Fi adapters
-- USB controllers
-- Storage controllers (SATA / NVMe)
-- System firmware & ACPI tables
+⚡ HackinOS Builder Pro **automates these complex steps**, making the process faster, easier, and more reliable.
 
-All detected hardware is used to build a **hardware-specific EFI**, not a generic one.
+Perfect for:
 
-## 📥 2. Automatic OpenCore Download & Setup
+- [x] 🧑‍💻 Beginners learning Hackintosh
+- [x] 🔧 Advanced users who want faster EFI generation
+- [x] 🖥️ System builders working with multiple machines
 
-- Downloads the **latest stable OpenCore release**
-- Extracts and structures OpenCore correctly
-- Applies best-practice folder layout
-- Configures OpenCore based on detected hardware
-- Ensures maximum compatibility and stability
+### ✨ Features
 
-No manual OpenCore updates required.
+### 🔧 Automatic EFI Builder
 
-## 🧩 3. Intelligent Kext Selection & Download
+- Generate a complete **OpenCore EFI structure automatically**.
 
-HackinOS Builder Pro automatically:
+### 🧠 Hardware Detection
 
-- Selects only the **required kexts** for your hardware
-- Downloads official and trusted kext versions
-- Avoids unnecessary or conflicting kexts
-- Ensures correct load order and dependencies
+Automatically detect system hardware including:
+- [x] CPU
+- [x] GPU
+- [x] Chipset
+- [x] Storage controllers
 
-Examples:
-- Lilu, WhateverGreen, VirtualSMC
-- Audio, network, USB, and storage-related kexts
-- CPU & power management related kexts
+### 📦 Automatic Kext Management
 
-## ⚙️ 4. Advanced ACPI Patch & SSDT Generation
+- Download and manage required **kernel extensions (kexts)** automatically.
 
-The application handles ACPI like an expert:
+### ⚡ OpenCore Bootloader Integration
 
-- Extracts and analyzes original ACPI tables
-- Generates required SSDTs automatically
-- Applies essential patches for macOS compatibility
-- Fixes common firmware and power-related issues
+- Uses the modern **OpenCore Bootloader** for maximum compatibility and stability.
 
-No manual DSDT/SSDT editing required.
+### 🌍 Universal EFI Creation
 
-## 🧬 5. config.plist Auto-Generation & Optimization
+- Create EFI configurations for **other machines without running macOS**.
 
-HackinOS Builder Pro creates a **fully optimized config.plist**, including:
+### 🎨 Modern GUI Interface
 
-- CPU-specific settings
-- Graphics configuration
-- Boot arguments
-- SMBIOS generation
-- Security and boot protections
-- Power management tuning
+- A clean and modern interface
 
-Everything is tailored specifically for your machine.
+### 🖥️ What You Can Do
 
-## 📦 6. Complete EFI Package — Ready to Boot
+With HackinOS Builder Pro you can easily:
+  - [x] Build OpenCore EFI
+  - [x] Manage kexts
+  - [x] Configure hardware profiles
+  - [x] Update OpenCore components
+  - [x] Generate EFI for multiple systems
 
-At the end of the process, you receive:
+All without manually editing complicated configuration files.
 
-- A **fully built EFI folder**
-- OpenCore bootloader
-- All required kexts
-- Proper ACPI patches
-- Optimized configuration files
+### 👨‍💻 Why Use HackinOS Builder Pro?
 
-Just copy the EFI — **no additional steps required**.
+Manual Hackintosh configuration can be **time-consuming and error-prone**.
 
-## 🚀 Who Is This For?
+HackinOS Builder Pro helps by automating critical tasks.
 
-- Beginners who want a stress-free Hackintosh
-- Advanced users who want speed and consistency
-- Professionals building multiple systems
-- Anyone tired of manual trial-and-error
+### Benefits
 
-## 🆓 Free to Use — Get Started Now
+  - [x] Faster EFI generation
+  - [x] Reduced configuration errors
+  - [x] Simplified workflow
+  - [x] Beginner-friendly interface
+  - [x] Supports multiple hardware platforms
 
-You can download and use HackinOS Builder Pro **for free**.
+### 📊 Star History
 
-- Download: https://hackinos.com/files/file/11196-%F0%9F%8D%8E-hackinos-builder-pro/
+<p align="center">
 
-👉 **Register & Download:**  **https://www.hackinOS.com**
+<a href="https://star-history.com/#ihackinOS/HackinOS-Builder-Pro&Date">
+<img src="https://api.star-history.com/svg?repos=ihackinOS/HackinOS-Builder-Pro&type=Date" width="600"/>
+</a>
 
-## 📣 Support & Contact Policy (Important)
+</p>
 
-We provide **two separate support channels**:
+### ⭐ Support the Project
 
-### 🔧 Paid Hackintosh Installation Service
-If you need **direct help, remote installation, or personal assistance**, please contact us **only for Hackintosh installation services** via our official social channels.
+If you find this project useful, please consider:
 
-Supported contact platforms:
-- [Facebook](https://www.facebook.com/hackinOS)
-- [Telegram](https://t.me/hackinOS)
-- [WhatApp](https://wa.me/+84931798900)
-- [Discord](https://discord.gg/CX4H3tk4FM)
+- [x] ⭐ Starring the repository
+- [x] 🐞 Reporting bugs
+- [x] 💡 Suggesting improvements
 
-⚠️ **Please do NOT send direct messages for general questions or troubleshooting.**
+Your support helps grow the **HackinOS community**.
 
-### 💬 Community Support (Recommended)
-For:
-- Questions
-- Errors
-- Bug reports
-- Feature requests
-- General discussion
+### 📺 HackinOS YouTube Channel
 
-👉 Please create a **new post on our official forum**.  
-This allows the community and our team to support you efficiently.
+<p align="center">
 
-## ⚠️ Direct Message Policy
+<a href="https://www.youtube.com/@hackinOS">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
+</a>
 
-❌ Do NOT send private messages for:
-- General questions
-- Free support requests
-- How-to guides
-- Troubleshooting
+</p>
 
-✅ Direct messages are **ONLY for paid Hackintosh installation services**.
+### 💻 HackinOS Project
 
-Thank you for respecting our support workflow.
-
-## ✨ HackinOS Builder Pro
-
-- **Build Smart**
-- **Build Fast**
-- **Build macOS — The Professional Way**
+- Building tools to simplify the **Hackintosh ecosystem**.
+- Made with ❤️ by the HackinOS community.
