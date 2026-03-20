@@ -1,6 +1,8 @@
 <p align="center">
 
 <img width="1536" height="1024" alt="HackinOS Builder Pro" src="https://github.com/user-attachments/assets/e423ef99-06e4-4a34-b3c5-6c107211784a" />
+<img width="1960" height="1414" alt="HackinOS_Builder_Pro-Dark_Theme" src="https://github.com/user-attachments/assets/90de6171-f90e-4525-8a5f-ef237420089b" />
+<img width="1960" height="1414" alt="HackinOS_Builder_Pro-Light_Theme" src="https://github.com/user-attachments/assets/5c2f64bb-4e48-49b9-8489-3fc14e308c8b" />
 
 </p>
 
