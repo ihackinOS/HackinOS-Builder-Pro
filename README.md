@@ -103,7 +103,7 @@ HackinOS Builder Pro helps by automating critical tasks.
 
 <p align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ihackinOS/HackinOS-Builder-Pro&type=Date)](https://www.star-history.com/#ihackinOS/HackinOS-Builder-Pro&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=ihackinOS/HackinOS-Builder-Pro&type=Date&t=1)
 
 </p>
 
