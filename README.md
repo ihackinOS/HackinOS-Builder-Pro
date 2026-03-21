@@ -144,7 +144,7 @@ We’re always ready to help!
 Reach out to us through any of the following platforms:
 
 - [x] 🌐 Website: [hackinOS](https://www.hackinos.com)
-- [x] 🌐 Forum: [hackinOS](https://www.forum.hackinos.com)
+- [x] 🌐 Forum: [hackinOS](https://forum.hackinos.com)
 - [x] 📘 Facebook: [hackinOS](https://facebook.com/hackinos)
 - [x] 📘 Facebook Group: [hackinOS](https://facebook.com/groups/hackinosautotool)
 - [x] 💬 Telegram: [hackinOS](https://t.me/hackinos)
