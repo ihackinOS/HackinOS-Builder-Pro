@@ -144,10 +144,11 @@ We’re always ready to help!
 Reach out to us through any of the following platforms:
 
 - [x] 🌐 Website: [hackinOS](https://www.hackinos.com)
-- [x] 🗣️ Discord: [hackinOS Community](https://discord.gg/CX4H3tk4FM)
+- [x] 🌐 Forum: [hackinOS](https://www.forum.hackinos.com)
 - [x] 📘 Facebook: [hackinOS](https://facebook.com/hackinos)
 - [x] 📘 Facebook Group: [hackinOS](https://facebook.com/groups/hackinosautotool)
 - [x] 💬 Telegram: [hackinOS](https://t.me/hackinos)
+- [x] 🗣️ Discord: [hackinOS Community](https://discord.gg/CX4H3tk4FM)
 - [x] 📱 WhatsApp / Signal / Phone: +84 931 79 89 00
 
 ### ❤️ Support the Project
