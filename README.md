@@ -25,8 +25,6 @@ A next-generation automation tool to build a fully functional <b>Hackintosh EFI<
 
 </div>
 
----
-
 ## 📖 Overview
 
 **HackinOS Builder Pro** is a powerful automation tool designed to simplify the entire process of building a complete **Hackintosh EFI environment**.
@@ -39,8 +37,6 @@ Creating a Hackintosh traditionally requires deep knowledge of:
 - Hardware compatibility  
 
 ⚡ This tool **automates all critical steps**, reducing complexity and saving hours of manual work.
-
----
 
 ## 🎯 Why HackinOS Builder Pro?
 
@@ -57,8 +53,6 @@ Manual Hackintosh setup is often:
 - 📦 Complete kext management  
 - 🎨 Modern and intuitive UI  
 
----
-
 ## ✨ Features
 
 ### 🔧 Automatic EFI Builder
@@ -66,8 +60,6 @@ Manual Hackintosh setup is often:
 - Generate a complete **OpenCore EFI structure automatically**
 - Optimized specifically for **your current hardware**
 - No manual config.plist editing required
-
----
 
 ### 🧠 Advanced Hardware Detection
 
@@ -85,43 +77,39 @@ Detects detailed hardware required for Hackintosh:
 
 ➡️ Designed specifically for **Hackintosh compatibility**, not generic detection.
 
----
-
 ### 📦 Full Kext Library Integration
 
-Includes full support for all major kexts:
+HackinOS Builder Pro includes a complete and transparent kext management system.
 
-**Core**
-- Lilu.kext  
-- VirtualSMC.kext  
-- WhateverGreen.kext  
+All kexts are clearly listed and categorized:
 
-**Audio**
-- AppleALC.kext  
+| Category | Kext Name | Description |
+|--------|----------|------------|
+| 🧠 Core | Lilu.kext | Core patching engine required by most plugins |
+| 🧠 Core | VirtualSMC.kext | Emulates Apple's SMC (required for macOS boot) |
+| 🧠 Core | WhateverGreen.kext | Graphics support (iGPU/dGPU patching) |
+| 🔊 Audio | AppleALC.kext | Enables onboard audio (ALC codecs) |
+| 🌐 Network | IntelMausi.kext | Intel Ethernet support |
+| 🌐 Network | RealtekRTL8111.kext | Realtek Ethernet support |
+| 🌐 Network | AirportItlwm.kext | Intel WiFi support |
+| 🌐 Network | BrcmPatchRAM.kext | Broadcom Bluetooth support |
+| 🔌 USB | USBToolBox.kext | USB port mapping (modern method) |
+| 🔌 USB | USBInjectAll.kext | Legacy USB injection (fallback) |
+| 💻 Laptop | VoodooPS2Controller.kext | Keyboard & trackpad support (PS2) |
+| 💻 Laptop | VoodooI2C.kext | I2C trackpad support |
+| 💻 Laptop | ECEnabler.kext | Fix Embedded Controller issues |
+| 💾 Storage | NVMeFix.kext | Improves NVMe SSD compatibility |
+| ⚙️ System | RestrictEvents.kext | Prevents macOS unsupported warnings |
+| ⚙️ System | SMCBatteryManager.kext | Laptop battery status support |
 
-**Network**
-- IntelMausi.kext  
-- RealtekRTL8111.kext  
-- AirportItlwm.kext  
-- BrcmPatchRAM.kext  
+### ✅ Highlights
 
-**USB**
-- USBToolBox.kext  
-- USBInjectAll.kext  
+- ✔️ All kexts are **explicitly listed**
+- ✔️ Automatically downloaded & updated
+- ✔️ Selected based on detected hardware
+- ✔️ No hidden or generic configurations
 
-**Laptop**
-- VoodooPS2Controller.kext  
-- VoodooI2C.kext  
-- ECEnabler.kext  
-
-**Others**
-- NVMeFix.kext  
-- RestrictEvents.kext  
-- SMCBatteryManager.kext  
-
-➡️ Fully transparent — no hidden or generic handling
-
----
+➡️ Gives users full control and understanding of their Hackintosh setup
 
 ### ⚡ OpenCore Bootloader Integration
 
@@ -135,8 +123,6 @@ Includes full support for all major kexts:
 - Maximum compatibility  
 - Stability  
 - Performance  
-
----
 
 ### 🌐 macOS & EFI Resource Library
 
@@ -158,8 +144,6 @@ Includes full support for all major kexts:
 - Quick setup reference  
 - Comparing configurations  
 
----
-
 ### 🎨 Modern GUI Interface
 
 A fully featured modern interface:
@@ -172,8 +156,6 @@ A fully featured modern interface:
 
 ➡️ Designed for both **power users & beginners**
 
----
-
 ### 🖥️ What You Can Do
 
 - [x] Build EFI for your own machine  
@@ -184,15 +166,11 @@ A fully featured modern interface:
 - [x] Update OpenCore automatically  
 - [x] Customize EFI via GUI  
 
----
-
 ### ❌ Removed Feature
 
 - 🚫 Universal EFI Creation  
 
 ➡️ Focused on **accurate EFI generation for the current machine only** (more stable & reliable)
-
----
 
 ## 📊 Comparison
 
@@ -204,8 +182,6 @@ A fully featured modern interface:
 | Hardware Detection | ❌ Manual | ✅ Automatic |
 | OpenCore Updates | ❌ Manual | ✅ Automatic |
 
----
-
 ## 🛣️ Roadmap
 
 - [ ] 🔄 Auto EFI Update System  
@@ -213,8 +189,6 @@ A fully featured modern interface:
 - [ ] 🧪 Compatibility Checker (Pre-build)  
 - [ ] 🖥️ Multi-language support  
 - [ ] 📱 Mobile companion app  
-
----
 
 ## 📊 Star History
 
@@ -231,8 +205,6 @@ A fully featured modern interface:
 
 </p>
 
----
-
 ## ⭐ Support the Project
 
 If you find this project useful:
@@ -240,8 +212,6 @@ If you find this project useful:
 - ⭐ Star the repository  
 - 🐞 Report bugs  
 - 💡 Suggest new features  
-
----
 
 ## 📺 YouTube Channel
 
@@ -253,14 +223,10 @@ If you find this project useful:
 
 </p>
 
----
-
 ## 💻 HackinOS Project
 
 - Tools to simplify the Hackintosh ecosystem  
 - Built with ❤️ by the HackinOS community  
-
----
 
 ## 📞 Contact & Support
 
@@ -271,8 +237,6 @@ If you find this project useful:
 - 💬 Telegram: https://t.me/hackinos  
 - 🗣️ Discord: https://discord.gg/CX4H3tk4FM  
 - 📱 Phone: +84 931 79 89 00  
-
----
 
 ## ❤️ Support Development
 
