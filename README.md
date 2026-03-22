@@ -9,7 +9,7 @@
 <h1 align="center">🚀 HackinOS Builder Pro</h1>
 
 <p align="center">
-A powerful automation tool to simplify building a fully functional <b>Hackintosh EFI</b>.
+A next-generation automation tool to build a fully functional <b>Hackintosh EFI</b> — fast, accurate, and beginner-friendly.
 </p>
 
 <div align="center">
@@ -25,81 +25,198 @@ A powerful automation tool to simplify building a fully functional <b>Hackintosh
 
 </div>
 
-### 📖 Overview
+---
 
-**HackinOS Builder Pro** is an advanced automation tool designed to simplify the process of creating a complete **Hackintosh EFI environment**.
+## 📖 Overview
 
-Building a Hackintosh normally requires deep knowledge of:
+**HackinOS Builder Pro** is a powerful automation tool designed to simplify the entire process of building a complete **Hackintosh EFI environment**.
 
-* OpenCore configuration
-* ACPI patching
-* Kernel Extensions (Kexts)
-* Hardware compatibility
+Creating a Hackintosh traditionally requires deep knowledge of:
 
-⚡ HackinOS Builder Pro **automates these complex steps**, making the process faster, easier, and more reliable.
+- OpenCore configuration  
+- ACPI patching  
+- Kernel Extensions (Kexts)  
+- Hardware compatibility  
 
-Perfect for:
+⚡ This tool **automates all critical steps**, reducing complexity and saving hours of manual work.
 
-- [x] 🧑‍💻 Beginners learning Hackintosh
-- [x] 🔧 Advanced users who want faster EFI generation
-- [x] 🖥️ System builders working with multiple machines
+---
 
-### ✨ Features
+## 🎯 Why HackinOS Builder Pro?
+
+Manual Hackintosh setup is often:
+
+- ❌ Time-consuming  
+- ❌ Error-prone  
+- ❌ Difficult for beginners  
+
+👉 HackinOS Builder Pro solves this by providing:
+
+- ⚡ Fully automated EFI generation  
+- 🧠 Smart hardware detection  
+- 📦 Complete kext management  
+- 🎨 Modern and intuitive UI  
+
+---
+
+## ✨ Features
 
 ### 🔧 Automatic EFI Builder
 
-- Generate a complete **OpenCore EFI structure automatically**.
+- Generate a complete **OpenCore EFI structure automatically**
+- Optimized specifically for **your current hardware**
+- No manual config.plist editing required
 
-### 🧠 Hardware Detection
+---
 
-Automatically detect system hardware including:
-- [x] CPU
-- [x] GPU
-- [x] Chipset
-- [x] Storage controllers
+### 🧠 Advanced Hardware Detection
 
-### 📦 Automatic Kext Management
+Detects detailed hardware required for Hackintosh:
 
-- Download and manage required **kernel extensions (kexts)** automatically.
+- [x] CPU (Generation, Threads, Instruction sets)
+- [x] GPU (Intel / AMD / NVIDIA)
+- [x] Motherboard & Chipset
+- [x] Audio Codec (ALCxxx)
+- [x] Ethernet (Intel / Realtek / Broadcom)
+- [x] WiFi / Bluetooth Chipset
+- [x] Storage (SATA / NVMe / AHCI)
+- [x] USB Controllers (XHCI)
+- [x] Laptop Devices (Trackpad, Battery, EC)
+
+➡️ Designed specifically for **Hackintosh compatibility**, not generic detection.
+
+---
+
+### 📦 Full Kext Library Integration
+
+Includes full support for all major kexts:
+
+**Core**
+- Lilu.kext  
+- VirtualSMC.kext  
+- WhateverGreen.kext  
+
+**Audio**
+- AppleALC.kext  
+
+**Network**
+- IntelMausi.kext  
+- RealtekRTL8111.kext  
+- AirportItlwm.kext  
+- BrcmPatchRAM.kext  
+
+**USB**
+- USBToolBox.kext  
+- USBInjectAll.kext  
+
+**Laptop**
+- VoodooPS2Controller.kext  
+- VoodooI2C.kext  
+- ECEnabler.kext  
+
+**Others**
+- NVMeFix.kext  
+- RestrictEvents.kext  
+- SMCBatteryManager.kext  
+
+➡️ Fully transparent — no hidden or generic handling
+
+---
 
 ### ⚡ OpenCore Bootloader Integration
 
-- Uses the modern **OpenCore Bootloader** for maximum compatibility and stability.
+- Always uses the **latest OpenCore version**
+- Auto-download:
+  - OpenCorePkg  
+  - Drivers  
+  - Tools  
 
-### 🌍 Universal EFI Creation
+✔️ Ensures:
+- Maximum compatibility  
+- Stability  
+- Performance  
 
-- Create EFI configurations for **other machines without running macOS**.
+---
+
+### 🌐 macOS & EFI Resource Library
+
+- Built-in **macOS download links**
+- Prebuilt **EFI templates for many systems**:
+
+**Desktop**
+- Intel (Coffee Lake, Comet Lake, Alder Lake…)
+- AMD Ryzen
+
+**Laptop**
+- Dell  
+- HP  
+- ASUS  
+- Lenovo  
+
+➡️ Perfect for:
+- Learning Hackintosh  
+- Quick setup reference  
+- Comparing configurations  
+
+---
 
 ### 🎨 Modern GUI Interface
 
-- A clean and modern interface
+A fully featured modern interface:
+
+- 🧭 Navigation panel
+- 🌗 Light / Dark mode toggle
+- ❄️ Snow animation effects
+- 🔊 Background sound support
+- ⚡ Smooth animations & transitions
+
+➡️ Designed for both **power users & beginners**
+
+---
 
 ### 🖥️ What You Can Do
 
-With HackinOS Builder Pro you can easily:
-  - [x] Build OpenCore EFI
-  - [x] Manage kexts
-  - [x] Configure hardware profiles
-  - [x] Update OpenCore components
-  - [x] Generate EFI for multiple systems
+- [x] Build EFI for your own machine  
+- [x] Detect hardware in-depth  
+- [x] Manage and download kexts  
+- [x] Use prebuilt EFI templates  
+- [x] Access macOS resources  
+- [x] Update OpenCore automatically  
+- [x] Customize EFI via GUI  
 
-All without manually editing complicated configuration files.
+---
 
-### 👨‍💻 Why Use HackinOS Builder Pro?
+### ❌ Removed Feature
 
-Manual Hackintosh configuration can be **time-consuming and error-prone**.
+- 🚫 Universal EFI Creation  
 
-HackinOS Builder Pro helps by automating critical tasks.
+➡️ Focused on **accurate EFI generation for the current machine only** (more stable & reliable)
 
-### Benefits
+---
 
-  - [x] Faster EFI generation
-  - [x] Reduced configuration errors
-  - [x] Simplified workflow
-  - [x] Beginner-friendly interface
-  - [x] Supports multiple hardware platforms
+## 📊 Comparison
 
-### 📊 Star History
+| Feature | Manual Setup | HackinOS Builder Pro |
+|--------|------------|---------------------|
+| Time Required | ❌ Hours | ✅ Minutes |
+| Difficulty | ❌ High | ✅ Easy |
+| Error Rate | ❌ High | ✅ Low |
+| Hardware Detection | ❌ Manual | ✅ Automatic |
+| OpenCore Updates | ❌ Manual | ✅ Automatic |
+
+---
+
+## 🛣️ Roadmap
+
+- [ ] 🔄 Auto EFI Update System  
+- [ ] ☁️ Cloud EFI Backup  
+- [ ] 🧪 Compatibility Checker (Pre-build)  
+- [ ] 🖥️ Multi-language support  
+- [ ] 📱 Mobile companion app  
+
+---
+
+## 📊 Star History
 
 <p>
 
@@ -109,21 +226,24 @@ HackinOS Builder Pro helps by automating critical tasks.
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ihackinos/hackinos-builder-pro&type=date&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ihackinos/hackinos-builder-pro&type=date&legend=top-left" />
  </picture>
+
 </a>
 
 </p>
 
-### ⭐ Support the Project
+---
 
-If you find this project useful, please consider:
+## ⭐ Support the Project
 
-- [x] ⭐ Starring the repository
-- [x] 🐞 Reporting bugs
-- [x] 💡 Suggesting improvements
+If you find this project useful:
 
-Your support helps grow the **HackinOS community**.
+- ⭐ Star the repository  
+- 🐞 Report bugs  
+- 💡 Suggest new features  
 
-### 📺 HackinOS YouTube Channel
+---
+
+## 📺 YouTube Channel
 
 <p>
 
@@ -133,32 +253,30 @@ Your support helps grow the **HackinOS community**.
 
 </p>
 
-### 💻 HackinOS Project
+---
 
-- Building tools to simplify the **Hackintosh ecosystem**.
-- Made with ❤️ by the HackinOS community.
+## 💻 HackinOS Project
 
-### 📞 Contact & Support
+- Tools to simplify the Hackintosh ecosystem  
+- Built with ❤️ by the HackinOS community  
 
-We’re always ready to help!
-Reach out to us through any of the following platforms:
+---
 
-- [x] 🌐 Website: [hackinOS](https://www.hackinos.com)
-- [x] 🌐 Forum: [hackinOS](https://forum.hackinos.com)
-- [x] 📘 Facebook: [hackinOS](https://facebook.com/hackinos)
-- [x] 📘 Facebook Group: [hackinOS](https://facebook.com/groups/hackinosautotool)
-- [x] 💬 Telegram: [hackinOS](https://t.me/hackinos)
-- [x] 🗣️ Discord: [hackinOS Community](https://discord.gg/CX4H3tk4FM)
-- [x] 📱 WhatsApp / Signal / Phone: +84 931 79 89 00
+## 📞 Contact & Support
 
-### ❤️ Support the Project
+- 🌐 Website: https://www.hackinos.com  
+- 🌐 Forum: https://forum.hackinos.com  
+- 📘 Facebook: https://facebook.com/hackinos  
+- 📘 Group: https://facebook.com/groups/hackinosautotool  
+- 💬 Telegram: https://t.me/hackinos  
+- 🗣️ Discord: https://discord.gg/CX4H3tk4FM  
+- 📱 Phone: +84 931 79 89 00  
 
-If you find this project useful, consider supporting its development:
-- ☕ Buy Me a Coffee  
-  - [x] https://www.buymeacoffee.com/hackinOS.com
-- 💖 Ko-fi  
-  - [x] https://ko-fi.com/hackinOS
-- 🎁 Patreon  
-  - [x] https://patreon.com/hackinOS
-- 💰 PayPal  
-  - [x] https://www.paypal.me/TranNgocAnhVu
+---
+
+## ❤️ Support Development
+
+- ☕ https://www.buymeacoffee.com/hackinOS.com  
+- 💖 https://ko-fi.com/hackinOS  
+- 🎁 https://patreon.com/hackinOS  
+- 💰 https://www.paypal.me/TranNgocAnhVu  
